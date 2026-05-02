@@ -23,7 +23,7 @@
 | Dashboard จำนวนนักท่องเที่ยวและรายได้ปี 63        | [PowerBI](https://drive.google.com/file/d/1SJ97q5rA2kdRVSFWjL774l6gWn1YuGvb/view?usp=sharing)        |
 | ทำStroytelling โดยใช้ Dashboard การเกิดอุบัติเหตุในปี 63 | [Tableau](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
 | เรียนรู้การใช้Saleforce | [Saleforce](https://public.tableau.com/app/profile/panupong.thongchoed/viz/Story_17289919097110/Story) |
-| ระบบวิเคราห์โรคใบยางพาราด้วย AI (Frontend) | [React]([https://github.com/Chaiwat-Setho/Senior-project](https://github.com/Chaiwat-Setho/Senior-project/tree/Develop))  |
+| ระบบวิเคราห์โรคใบยางพาราด้วย AI (Frontend) | [React](https://github.com/Chaiwat-Setho/Senior-project/tree/Develop) |
 | ระบบวิเคราห์โรคใบยางพาราด้วย AI (Backend) | [Python](https://github.com/Chaiwat-Setho/API-Senior-project/tree/develop) |
 
 
